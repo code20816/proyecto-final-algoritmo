@@ -1,3 +1,3 @@
 # Fine-Tuning
 
-### la verdad 
+## Recursos a utilizar
